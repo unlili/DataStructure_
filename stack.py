@@ -8,7 +8,7 @@ ArrayStack类的方法
 	s.is_empty() 栈空返回True 
 	len(s) 返回栈的长度
 
-定义了一个异常类，在调运一个空栈的s.top方法时抛出
+定义了一个异常类，在调用一个空栈的s.top方法时抛出
 
 '''
 class Empty(Exception):
