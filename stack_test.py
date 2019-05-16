@@ -14,7 +14,6 @@ from stack import ArrayStack
 def is_matched(string):
 	#创建一个栈
 	s = ArrayStack()
-
 	left = '{[('
 	right = '}])'
 
