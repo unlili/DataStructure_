@@ -1,5 +1,5 @@
 # PythonDataStructure
-python实现，主要是借鉴《数据结构与算法-python语言实现》这本书。
+自己本人也正在学习《数据结构》，学到那里更新那里，主要是借鉴《数据结构与算法-python语言实现》这本书。
 # 目录
 1. [栈](https://github.com/unlili/PythonDataStructure/blob/master/stack.py) 
 2. [队列](https://github.com/unlili/PythonDataStructure/blob/master/ArrayQueue.py)
