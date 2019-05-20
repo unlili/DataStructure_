@@ -1,11 +1,11 @@
 '''
 单向链表实现栈
-	s = ArrayStack() 通过ArrayStack创建一个栈对象
-	       s.push(e) 把e添加到栈s的顶部
-	         s.pop() 从栈s中移除并且返回栈顶元素
-	         s.top() 在不移除栈顶元素的情况下，返回顶部元素；若栈为空抛出异常
-	    s.is_empty() 栈空返回True 
-	          len(s) 返回栈的长度
+	ls = LinkedStack() 通过LinkedStack创建一个栈对象
+	       ls.push(e) 把e添加到栈s的顶部
+	         ls.pop() 从栈s中移除并且返回栈顶元素
+	         ls.top() 在不移除栈顶元素的情况下，返回顶部元素；若栈为空抛出异常
+	    ls.is_empty() 栈空返回True 
+	          len(ls) 返回栈的长度
 '''
 #定义异常类
 class Empty(Exception):
