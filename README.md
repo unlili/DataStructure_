@@ -5,10 +5,8 @@
 1. [list实现栈](https://github.com/unlili/PythonDataStructure/blob/master/stack.py) 
 2. [list实现队列](https://github.com/unlili/PythonDataStructure/blob/master/ArrayQueue.py)
 3. [list实现双端队列](https://github.com/unlili/PythonDataStructure/blob/master/double_queue.py)
-
 **单链表**
-
-4. [单向链表实现栈](https://github.com/unlili/PythonDataStructure/blob/master/LinkedStack.py)
+4. [单链表实现栈](https://github.com/unlili/PythonDataStructure/blob/master/LinkedStack.py)
 
 # 简单应用
 1. [用栈进行字符串括号匹配](https://github.com/unlili/PythonDataStructure/blob/master/stack_test.py)
