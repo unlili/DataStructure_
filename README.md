@@ -10,6 +10,7 @@
 
 1. [单链表](https://github.com/unlili/PythonDataStructure/blob/master/SingleLinkedList.py)
 2. [单链表实现栈](https://github.com/unlili/PythonDataStructure/blob/master/LinkedStack.py)
+5. 双向链表  
 
 **简单应用**
 1. [用栈进行字符串括号匹配](https://github.com/unlili/PythonDataStructure/blob/master/stack_test.py)
