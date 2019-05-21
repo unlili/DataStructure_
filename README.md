@@ -8,7 +8,8 @@
 
 **链表**
 
-4. [单链表实现栈](https://github.com/unlili/PythonDataStructure/blob/master/LinkedStack.py)
+4. [单链表](https://github.com/unlili/PythonDataStructure/blob/master/SingleLinkedList.py)
+5. [单链表实现栈](https://github.com/unlili/PythonDataStructure/blob/master/LinkedStack.py)
 
 # 简单应用
 1. [用栈进行字符串括号匹配](https://github.com/unlili/PythonDataStructure/blob/master/stack_test.py)
