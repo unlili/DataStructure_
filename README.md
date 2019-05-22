@@ -10,7 +10,8 @@
 
 1. [单链表](https://github.com/unlili/PythonDataStructure/blob/master/SingleLinkedList.py)
 2. [单链表栈](https://github.com/unlili/PythonDataStructure/blob/master/LinkedStack.py)**-**[单链表队列](https://github.com/unlili/PythonDataStructure/blob/master/linkedQueue.py)
-3. 双向链表  
+3. [循环链表实现循环队列](https://github.com/unlili/PythonDataStructure/blob/master/CircularQueue.py)
+4. 双向链表  
 
 **简单应用**
 1. [用栈进行字符串括号匹配](https://github.com/unlili/PythonDataStructure/blob/master/stack_test.py)
