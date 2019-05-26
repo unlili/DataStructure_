@@ -14,7 +14,7 @@
 4. [双向链表](https://github.com/unlili/PythonDataStructure/blob/master/DoubleLinkedList.py) **-** [双向链表实现双端队列](https://github.com/unlili/PythonDataStructure/blob/master/LinkedDeque.py)
 
 **排序** 
-* 冒泡
+* [冒泡](https://github.com/unlili/PythonDataStructure/blob/master/sort/bubble_sort.py)
 * 选择
 * 插入
 * 快速
