@@ -15,7 +15,7 @@
 
 **排序** 
 * [冒泡](https://github.com/unlili/PythonDataStructure/blob/master/sort/bubble_sort.py)
-* 选择
+* [选择](https://github.com/unlili/PythonDataStructure/blob/master/sort/selection_sort.py)
 * 插入
 * 快速
 * 希尔
