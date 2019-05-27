@@ -9,7 +9,9 @@ def insert_sort(alist):
 		while i>0 :
 			if alist[i] < alist[i-1]:
 				alist[i],alist[i-1] = alist[i-1],alist[i]
-			i -= 1
+				i -= 1
+			else:
+				break
 			
 if __name__ == '__main__':
 	a = [65,65,62,96,48,2,63,954,962,325,333,3641]
