@@ -18,7 +18,7 @@
 * [选择](https://github.com/unlili/PythonDataStructure/blob/master/sort/selection_sort.py)
 * [插入](https://github.com/unlili/PythonDataStructure/blob/master/sort/insert_sort.py)
 * 快速
-* 希尔
+* [希尔](https://github.com/unlili/PythonDataStructure/blob/master/sort/shell_sort.py)
 * 归并
 
 **简单应用**
