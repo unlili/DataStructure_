@@ -19,7 +19,7 @@
 * [插入](https://github.com/unlili/PythonDataStructure/blob/master/sort/insert_sort.py)
 * [快速](https://github.com/unlili/PythonDataStructure/blob/master/sort/quick_sort.py)
 * [希尔](https://github.com/unlili/PythonDataStructure/blob/master/sort/shell_sort.py)
-* 归并
+* [归并](https://github.com/unlili/PythonDataStructure/blob/master/sort/merge_sort.py)
 
 **简单应用**
 1. [用栈进行字符串括号匹配](https://github.com/unlili/PythonDataStructure/blob/master/stack_test.py)
