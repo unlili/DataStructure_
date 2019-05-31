@@ -21,6 +21,9 @@
 * [希尔](https://github.com/unlili/PythonDataStructure/blob/master/sort/shell_sort.py)
 * [归并](https://github.com/unlili/PythonDataStructure/blob/master/sort/merge_sort.py)
 
+**查找**
+* [二分查找](https://github.com/unlili/PythonDataStructure/blob/master/search/binary_search.py)
+
 **简单应用**
 1. [用栈进行字符串括号匹配](https://github.com/unlili/PythonDataStructure/blob/master/stack_test.py)
 
