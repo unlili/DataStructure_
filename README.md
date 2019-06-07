@@ -13,6 +13,20 @@
 3. [循环链表实现循环队列](https://github.com/unlili/PythonDataStructure/blob/master/CircularQueue.py)
 4. [双向链表](https://github.com/unlili/PythonDataStructure/blob/master/DoubleLinkedList.py) **-** [双向链表实现双端队列](https://github.com/unlili/PythonDataStructure/blob/master/LinkedDeque.py)
 
+**树**
+1. 树
+  * 双亲表示
+  * 孩子表示
+  * 双亲孩子表示
+  * 孩子兄弟表示
+2. 二叉树
+  * 顺序存储二叉树
+  * 链式存储二叉树
+  * 二叉树遍历（前、中、后、层次）
+  * 线索二叉树链式存储
+  * 哈夫曼树
+3. 树/森林转换成二叉树
+
 **排序** 
 * [冒泡](https://github.com/unlili/PythonDataStructure/blob/master/sort/bubble_sort.py)
 * [选择](https://github.com/unlili/PythonDataStructure/blob/master/sort/selection_sort.py)
