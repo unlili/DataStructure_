@@ -25,7 +25,9 @@
    + 二叉树遍历（前、中、后、层次）
    + 线索二叉树链式存储
    + 哈夫曼树(编码)
-3. 树/森林转换成二叉树
+3. 树/森林与二叉树的相互转换
+4. 树/森林的遍历
+
 
 **排序** 
 * [冒泡](https://github.com/unlili/PythonDataStructure/blob/master/sort/bubble_sort.py)
