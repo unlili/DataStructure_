@@ -97,7 +97,7 @@ void BinaryTree<T>::postOrder(treeNode<T> * cur)
 
 template<class T>
 void BinaryTree<T>::levelOrder()
-{
+{//这个好屌啊
 	std::queue<treeNode<T>*> q;// 存放结点指针的队列
 	treeNode<T> * cur = root;
 	while (cur)
