@@ -16,9 +16,9 @@
 **树**
 1. 树
 2. [二叉树](https://github.com/unlili/DataStructure_/tree/master/c%2B%2B/%E4%BA%8C%E5%8F%89%E6%A0%91)
-   + 顺序存储二叉树
-   + 链式存储二叉树
-   + 二叉树遍历（前、中、后、层次）
+   + 顺序存储二叉树(太浪费没写，我不会)
+   + [链式存储二叉树](https://github.com/unlili/DataStructure_/blob/master/c%2B%2B/%E4%BA%8C%E5%8F%89%E6%A0%91/binaryTree.hpp)
+   + [二叉树遍历（前、中、后、层次）](https://github.com/unlili/DataStructure_/blob/master/c%2B%2B/%E4%BA%8C%E5%8F%89%E6%A0%91/binaryTree.hpp)
    + 线索二叉树链式存储
    + 哈夫曼树(编码)
 3. 树/森林与二叉树的相互转换
