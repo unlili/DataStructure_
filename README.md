@@ -40,6 +40,6 @@
 1. [用栈进行字符串括号匹配](https://github.com/unlili/PythonDataStructure/blob/master/stack_test.py)
 
 # <== To be continue |
-#后边开始用c++写了 [看的是这个教程](https://www.bilibili.com/video/BV1AW411k7rw)
+后边开始用c++写了 [看的是这个教程](https://www.bilibili.com/video/BV1AW411k7rw)
 
 [数据结构可视化网站](www.cs.usfca.edu/~galles/visualization/Algorithms.html)
